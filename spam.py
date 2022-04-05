@@ -1,7 +1,8 @@
 from telethon.sync import TelegramClient, events
 
 ##with love from hduwiz  , TG : godlxss <3
-print()
+print("\033[1;32m with love from hduwiz<3  \n")
+print("\033[1;0m\n")
 hashtg = input("hash : ")
 idtg = int(input("id : "))
 px = int(input("how much : "))
