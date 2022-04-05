@@ -3,7 +3,7 @@ ez for everyone ;
  
  install telethon ( pip install telethon ) , and start ! ;
  
- hash and id ( my.telegram.org ) ;
+ hash and id ( my.telegram.org/apps ) ;
  
  Glory to Ukraine! ;
  
