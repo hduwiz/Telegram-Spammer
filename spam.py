@@ -4,7 +4,7 @@ from telethon.sync import TelegramClient, events
 print()
 hashtg = input("hash : ")
 idtg = int(input("id : "))
-px = int(input("sms : "))
+px = int(input("how much : "))
 per = input("id chela: ")
 mes = input("text : ")
 
