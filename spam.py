@@ -13,7 +13,7 @@ mes = input("text : ")
 api_id = idtg 
 api_hash = hashtg
 
-print("Thank You! , Glory of Ukraine! UA")
+print("Thank You! , Glory to Ukraine! UA")
 
 with TelegramClient('proxy', api_id, api_hash) as client:
 	for i in range(px):
