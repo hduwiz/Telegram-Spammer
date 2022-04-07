@@ -10,4 +10,4 @@ ez for everyone ;
  
  Glory to Ukraine! ;
  
- 
+my telegram : t.me/godlxss ( @godlxss ) or t.me/hduwiz ( @hduwiz ) 
